@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation enjoyning the observance of the peace betwixt His Majesty and the States General of the United Netherlands.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19511</idno><idno type="EEBO-CITATION">99890474_190044</idno>
+  <idno type="VID">190044</idno>
+  <idno type="EEBO-PROQUEST">2264190505</idno>
+  
+            <idno type="OCLC"> 18240951</idno>
+            <idno type="STC">Wing C3295A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[106]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[99]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[100]</idno>
+            <idno type="STC">ESTC R39167</idno>
+            <idno type="PROQUEST">ocm99890474</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890474e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190044)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[106]; C18:2[99]; C18:2[100])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation enjoyning the observance of the peace betwixt His Majesty and the States General of the United Netherlands.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at our court at Whitehall the twenty eighth day of September 1674. in the six and twentieth year of our reign.</note>
+                  <note>Steele notation: Arms 87  thousand or 2) if this.</note>
+                  <note>Two copies filmed consecutively at UMI Tracts Supplement reel C18; these copies consist of one contiguous sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">United Provinces of the Netherlands. --  Staten Generaal --  Early works to 1800.</term>
+               <term type="topical_term">Breda, Treaty of, 1667 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:190044:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles II</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> By the King. A PROCLAMATION Enjoyning the Observance of the Peace betwixt His Majesty and the States General of the <hi>Ʋnited Netherlands.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the Treaty of Peace concluded at <hi>Breda,</hi> in the year One thousand six hundred sixty seven, betwixt His Majesty and the States General of the <hi>United Netherlands,</hi> It is expresly provided in the One and Twentieth Ar<g ref="char:EOLhyphen"/>ticle, That it should not be permitted to His Majesties Subjects, and the Inhabitants of the Kingdoms and Countreys under his Obedience, or to the Inhabitants and Subjects of the <hi>United Provinces,</hi> to do or offer any Ho<g ref="char:EOLhyphen"/>stility or Violence to each other, either by Land or by Sea, upon any pretence or colour whatsoever, and that by consequence, it should not be lawful for the said Subjects or Inhabitants to get Commissions or Letters of Reprizal from any Prince or State with whom either of the Confederates should be at difference, or in open War, and much less by vertue of those Letters to molest or damnifie the Subjects of either Party; Neither should it be lawful for any Forreign private Men of War, not being Subjects to the one, or the other Party, having Commis<g ref="char:EOLhyphen"/>sions from any other Prince or State, to equippe their Ships in the Harbours of either of the aforesaid Parties, or to sell or ransom their Prizes, or any other way to truck either the Ship or Goods, or any other Lading whatsoever; &amp; it should not be lawful for them to buy any Victual, but what should be neces<g ref="char:EOLhyphen"/>sary to bring them to the next Port of that Prince from whom they obtained the said Commissions: And if perchance any of the Subjects of His Majesty, or of the States General, should buy or get to themselves by Truck or any other way, such Ship or Goods which have been taken by the Subjects of the one or the other Party, in such case the said Subject should be bound to restore the said Ship or Goods to the Pro<g ref="char:EOLhyphen"/>prietors without any delay, and without any Compensation or Reimbursement of Money paid or promi<g ref="char:EOLhyphen"/>sed for the same; Provided that they make it appear before the Council of His Majesty, or before the said States General, That they are the right Owners or Propietors of them, as appears by the said Treaty, which is renewed by the Seventh Article in the late Treaty of Peace betwixt His Majesty and the said States, concluded at <hi>Westminster</hi> in <hi>February</hi> last, and now remains in full force. Nevertheless, His Majesty has been informed, That divers of His Subjects do presume to accept of Commissions of War, and Letters of Marque and Reprizal, contrary to the tenour and true intent of the said Treaties of Peace; which undue practice, if not suppressed, may produce great disturbance to the Trade and Peace of this Kingdom: For the timely prevention whereof, and to the intent that none of His Majesties Subjects may pretend Ignorance of the said Treaties in this particular, His Majesty, with the Advice of His Privy Council, has thought fit by this His Royal Proclamation to publish the same to be as is before recited: And doth hereby straitly Command and Require, That no Person whatsoever do presume to accept of, or exe<g ref="char:EOLhyphen"/>cute any Commission of War, or Letter of Marque or Reprizal from any Prince or State that now is, or hereafter shall be at difference, or in open War with the said States General of the <hi>United Netherlands,</hi> but that all His loving Subjects, according to their Duty, do inviolably observe that Peace and Vnion which is by the said Treaties established betwixt His Majesty and the said States General, upon pain of being proceéded against with that severity which they will deserve, that shall endeavour to involve this Kingdom in a War.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Whitehall</hi>
+                  </hi>
+                  <date>
+                     <hi>the Twenty eighth day of <hi>September</hi> 1674. in the Six and twentieth Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Assigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty. 1674.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
